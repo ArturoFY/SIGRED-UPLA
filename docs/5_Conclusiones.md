@@ -2,8 +2,11 @@
 ## 5. CONCLUSIONES
 
 La elección de Scrum con entregables formales fue vital; si hubiéramos optado por un modelo en Cascada, la falta de entregas tempranas habría generado desconfianza en la DGA. Scrum nos permitió gestionar nuestra limitación de tiempo como estudiantes.
+
 La elicitación constante de requerimientos evidenció que el éxito del sistema dependía tanto de la DGA como de los vigilantes. Adaptar el software a un modelo *Mobile-First* garantiza que las reglas de negocio se ejecuten correctamente sin entorpecer el flujo físico en el campus.
+
 Identificar tempranamente riesgos como la caída de servidores nos obligó a diseñar una arquitectura transaccional sólida. La distribución por Sprints asegura que los módulos core estén estabilizados antes de programar los algoritmos de penalización.
+
 Aplicar el enfoque *Shift Left* y el perfil ISO 25010 nos hizo comprender que la calidad no es probar al final, sino construir bien desde el diseño. Priorizar la Usabilidad y la Fiabilidad garantiza que las herramientas detecten deuda técnica a tiempo.
 
 ---

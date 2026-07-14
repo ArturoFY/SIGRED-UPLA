@@ -1,4 +1,4 @@
-[⬅️ Volver al menú principal](../../README.md)
+[⬅️ Volver al Cronograma](Cronograma.md) | [🏠 Menú Principal](../../README.md)
 
 ---
 # Sprint 3: Administración DGA

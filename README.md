@@ -27,6 +27,7 @@ Para solucionar esta problemática, el equipo interno de estudiantes, actuando c
 5. [Conclusiones](docs/5_Conclusiones.md)
 6. [Tecnologia Usada](docs/Tecnologia.md)
 7. [Demo](docs/Demo.md)
+8. **[📅 Ver Cronograma y Entregables por Sprint](assets/sprints/Cronograma.md)**
 
 ## 🚀 Estado del Proyecto
 * [x] Análisis de Requisitos

@@ -20,8 +20,8 @@ Para solucionar esta problemática, el equipo interno de estudiantes, actuando c
 
 ## Índice del Proyecto
 
-1. [Diagnóstico de la Organización](1_Diagnostico.md)
-2. [Selección y Justificación del Modelo de Proceso](2_Modelo_Proceso.md)
-3. [Plan de Gestión del Proyecto](3_Gestion_Proyecto.md)
-4. [Plan de Calidad del Software](4_Calidad_Software.md)
-5. [Conclusiones](5_Conclusiones.md)
+1. [Diagnóstico de la Organización](docs/1_Diagnostico.md)
+2. [Selección y Justificación del Modelo de Proceso](docs/2_Modelo_Proceso.md)
+3. [Plan de Gestión del Proyecto](docs/3_Gestion_Proyecto.md)
+4. [Plan de Calidad del Software](docs/4_Calidad_Software.md)
+5. [Conclusiones](docs/5_Conclusiones.md)

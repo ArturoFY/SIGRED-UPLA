@@ -34,3 +34,19 @@ Para solucionar esta problemática, el equipo interno de estudiantes, actuando c
 * [x] Implementación Backend/Frontend
 * [x] Despliegue (Enlace disponible en [Demo](docs/Demo.md))
 * [x] Documentación Final
+
+## 📂 Estructura del Repositorio
+
+```text
+SIGRED-UPLA/
+├── README.md          # Menú principal y resumen ejecutivo
+├── docs/              # Documentación detallada del proyecto
+│   ├── 1_Diagnostico.md
+│   ├── 2_Modelo_Proceso.md
+│   ├── 3_Gestion_Proyecto.md
+│   ├── 4_Calidad_Software.md
+│   ├── 5_Conclusiones.md
+│   ├── Tecnologia.md  # Stack tecnológico utilizado
+│   └── Demo.md        # Enlace a la versión piloto y credenciales
+└── assets/            # Diagramas y activos visuales
+    └── arquitectura.png

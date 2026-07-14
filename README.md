@@ -25,3 +25,12 @@ Para solucionar esta problemática, el equipo interno de estudiantes, actuando c
 3. [Plan de Gestión del Proyecto](docs/3_Gestion_Proyecto.md)
 4. [Plan de Calidad del Software](docs/4_Calidad_Software.md)
 5. [Conclusiones](docs/5_Conclusiones.md)
+6. [Tecnologia Usada](docs/Tecnologia.md)
+7. [Demo](docs/Demo.md)
+
+## 🚀 Estado del Proyecto
+* [x] Análisis de Requisitos
+* [x] Diseño UI/UX
+* [x] Implementación Backend/Frontend
+* [x] Despliegue (Enlace disponible en [Demo](docs/Demo.md))
+* [x] Documentación Final

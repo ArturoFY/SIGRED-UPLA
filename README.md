@@ -38,16 +38,34 @@ Para solucionar esta problemática, el equipo interno de estudiantes, actuando c
 
 ## 📂 Estructura del Repositorio
 
+A continuación se muestra la organización de carpetas y archivos de este proyecto:
+
 ```text
 SIGRED-UPLA/
-├── README.md          # Menú principal y resumen ejecutivo
-├── docs/              # Documentación detallada del proyecto
+├── README.md                 # Menú principal y resumen ejecutivo (Estás aquí)
+├── docs/                     # Documentación del Informe Final
 │   ├── 1_Diagnostico.md
 │   ├── 2_Modelo_Proceso.md
 │   ├── 3_Gestion_Proyecto.md
 │   ├── 4_Calidad_Software.md
 │   ├── 5_Conclusiones.md
-│   ├── Tecnologia.md  # Stack tecnológico utilizado
-│   └── Demo.md        # Enlace a la versión piloto y credenciales
-└── assets/            # Diagramas y activos visuales
-    └── arquitectura.png
+│   ├── Tecnologia.md         # Stack tecnológico utilizado
+│   └── Demo.md               # Credenciales y enlace al sistema piloto
+└── assets/                   # Diagramas y recursos visuales
+    ├── arquitectura.png      # Diagrama de infraestructura
+    ├── modelo_bd.png         # Modelo de Base de Datos
+    └── sprints/              # Registro de iteraciones ágiles
+        ├── Cronograma.md     # Diagrama de Gantt e índice de Sprints
+        ├── Sprint_1.md
+        ├── Sprint_2.md
+        ├── Sprint_3.md
+        ├── Sprint_4.md
+        ├── Sprint_5.md
+        ├── Sprint_6.md
+        └── img/              # Capturas de pantalla de evidencias
+            ├── sprint1_login.png
+            ├── sprint2_formulario.png
+            ├── sprint3_panelDGA.png
+            ├── sprint4_app_vigilante.png
+            ├── sprint5_dashboard.png
+            └── sprint6_deploy.png

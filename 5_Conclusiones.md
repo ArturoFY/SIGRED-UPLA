@@ -15,4 +15,3 @@
 * Pressman, R. S., & Maxim, B. R. (2020). *Software Engineering: A Practitioner's Approach* (9.ª ed.). McGraw-Hill Education.
 * Schwaber, K., & Sutherland, J. (2020). *La Guía de Scrum: La Guía Definitiva de Scrum: Las Reglas del Juego*. ScrumGuides.org.
 * Sommerville, I. (2019). *Ingeniería de Software* (10.ª ed.). Pearson Educación.
-##[⬅️ Volver al inicio](README.md)

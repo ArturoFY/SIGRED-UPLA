@@ -1,4 +1,4 @@
-[⬅️ Volver al inicio](README.md)
+[⬅️ Volver al inicio](/README.md)
 ## 4. PLAN DE CALIDAD DEL SOFTWARE
 
 ### 4.1. Perfil de calidad ISO 25010

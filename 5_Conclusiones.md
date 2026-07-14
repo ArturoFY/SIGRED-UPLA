@@ -1,3 +1,4 @@
+[⬅️ Volver al inicio](README.md)
 ## 5. CONCLUSIONES
 
 * **Calderón Palacios Raúl Alberto (Gestión):** La elección de Scrum con entregables formales fue vital; si hubiéramos optado por un modelo en Cascada, la falta de entregas tempranas habría generado desconfianza en la DGA. Scrum nos permitió gestionar nuestra limitación de tiempo como estudiantes.
@@ -14,3 +15,4 @@
 * Pressman, R. S., & Maxim, B. R. (2020). *Software Engineering: A Practitioner's Approach* (9.ª ed.). McGraw-Hill Education.
 * Schwaber, K., & Sutherland, J. (2020). *La Guía de Scrum: La Guía Definitiva de Scrum: Las Reglas del Juego*. ScrumGuides.org.
 * Sommerville, I. (2019). *Ingeniería de Software* (10.ª ed.). Pearson Educación.
+[⬅️ Volver al inicio](README.md)

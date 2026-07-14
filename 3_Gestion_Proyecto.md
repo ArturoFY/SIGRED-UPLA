@@ -1,7 +1,7 @@
 ## 3. PLAN DE GESTIÓN DEL PROYECTO
 
 ### 3.1. Cronograma macro
-| Fase / Sprint | Duración | Entregable de Cierre (Hito)[cite: 3] |
+| Fase / Sprint | Duración | Entregable de Cierre (Hito) |
 | :--- | :---: | :--- |
 | **Sprint 0:** Setup y Arq. | 1 sem | *Product Backlog* priorizado y Prototipos Figma. |
 | **Sprint 1:** Cimientos | 2 sem | **MVP 1:** Módulo de Autenticación y Calendario. |
@@ -37,7 +37,7 @@
 | **4. Caída de servidores gratuitos** | Media / Alto | Uso de bases de datos distribuidas y caching. | Monitoreo Sentry con > 3 caídas por semana. |
 
 ### 3.4. Sistema de métricas y control
-1. **SPI de Valor (Schedule Performance Index EVM):** `SPI = EV / PV`[cite: 5]. *Alerta: SPI < 0.85 sostenido.*[cite: 5]
-2. **Índice de Costo de Oportunidad (CPI EVM):** `CPI = EV / AC`[cite: 5]. *Alerta: CPI < 0.85.*[cite: 5]
-3. **Velocidad Ágil (Velocity):** Story Points completados por Sprint[cite: 5]. *Alerta: Variación > 30% entre Sprints.*[cite: 5]
-4. **Gráfico de Trabajo Pendiente (Sprint Burndown):** Tasa de consumo diario[cite: 5]. *Alerta: Línea real sobre la ideal por 3 días.*
+1. **SPI de Valor (Schedule Performance Index EVM):** `SPI = EV / PV`. *Alerta: SPI < 0.85 sostenido.*
+2. **Índice de Costo de Oportunidad (CPI EVM):** `CPI = EV / AC`. *Alerta: CPI < 0.85.*
+3. **Velocidad Ágil (Velocity):** Story Points completados por Sprint. *Alerta: Variación > 30% entre Sprints.*
+4. **Gráfico de Trabajo Pendiente (Sprint Burndown):** Tasa de consumo diario. *Alerta: Línea real sobre la ideal por 3 días.*

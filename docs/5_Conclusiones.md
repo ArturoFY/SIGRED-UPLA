@@ -1,4 +1,4 @@
-[⬅️ Volver al inicio](README.md)
+[⬅️ Volver al inicio](/README.md)
 ## 5. CONCLUSIONES
 
 * **Calderón Palacios Raúl Alberto (Gestión):** La elección de Scrum con entregables formales fue vital; si hubiéramos optado por un modelo en Cascada, la falta de entregas tempranas habría generado desconfianza en la DGA. Scrum nos permitió gestionar nuestra limitación de tiempo como estudiantes.

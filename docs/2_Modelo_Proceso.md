@@ -1,4 +1,4 @@
-[⬅️ Volver al inicio](README.md)
+[⬅️ Volver al inicio](/README.md)
 ## 2. SELECCIÓN Y JUSTIFICACIÓN DEL MODELO DE PROCESO
 
 ### 2.1. Evaluación de alternativas

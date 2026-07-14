@@ -1,3 +1,4 @@
+[⬅️ Volver al inicio](README.md)
 ## 1. DIAGNÓSTICO DE LA ORGANIZACIÓN
 
 ### 1.1. Presentación de la organización
